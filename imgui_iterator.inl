@@ -2134,8 +2134,8 @@ END_ENUM(Cond)
 
 //namespace ImGui
 
-END_STACK_START
-END_STACK_END
+//END_STACK_START
+//END_STACK_END
 //class ImVector
 
 //struct ImGuiOnceUponAFrame
